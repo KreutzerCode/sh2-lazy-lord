@@ -14,7 +14,7 @@ This mod runs alongside Stronghold 2, tweaking the settings you want in real tim
 
 ## BUILDING
 
-- Execute `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\VC\x64 Native Tools Command Prompt for VS 2022 Preview`
+- Execute `Native Tools Command Prompt for VS` (or other build tool)
 - Navigate to projects `main.c`
 - Run `nmake` - done.
 
