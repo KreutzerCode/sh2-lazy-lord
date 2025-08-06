@@ -2,11 +2,11 @@
 
 ## DESCRIPTION
 
-Stronghold 2 Lazy Lord is a mod for Stronghold 2 that allows you to adjust the gold, honor, and satisfaction of your castle's citizens.
+Lazy Lord is a mod for Stronghold 2 that allows you to adjust the gold, honor, and satisfaction of your castle's citizens.
 
 ### HOW TO USE
 
-Start the exe and Stronghold 2. Order is irrelevant. Now follow the instructions in the CLI Programm. HFHF
+Start the `sh2_lazy_lord.exe` and Stronghold 2. Order is irrelevant. Now follow the instructions in the CLI Programm. HFHF
 
 ### HOW IT WORKS
 
